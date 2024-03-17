@@ -218,7 +218,7 @@ button {
     font-weight: 500;
     line-height: 22px;
     padding: 16px 38px 16px 38px;
-    text-transform: capitalize;
+    
     font-family: "Barlow", sans-serif;
 }
 
@@ -226,7 +226,7 @@ a {
     font-size: 16px;
     font-weight: 500;
     line-height: 22px;
-    text-transform: capitalize;
+    
     font-family: "Barlow", sans-serif;
     text-decoration: none;
     transition: all 0.3s ease;
@@ -1189,6 +1189,7 @@ aside .pages {
     margin-top: -390px;
     z-index: 1;
     position: relative;
+    
 }
 
 .tab {
